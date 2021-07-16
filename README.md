@@ -1,4 +1,4 @@
-## **welcome to my profile!**
+## **welcome to my profile**
 * I am someone who is currently learning how to code.
 * All of my projects are privately stored here on GitHub.
 
