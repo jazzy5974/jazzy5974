@@ -1,7 +1,7 @@
 ## **Hello!**
 * I am someone who is currently working to become a Software Engineer.
 * All of my projects are privately stored here on GitHub.
-* Web development, and more to come.
+* _Web development, and more to come!_
 
 ### Want to contact me?
 * **Discord** — kneecaps#5974
