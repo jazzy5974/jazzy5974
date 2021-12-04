@@ -1,5 +1,4 @@
 ## **Welcome**
-* All of my projects are privately stored here on GitHub.
 * _Web development, Java and more to come!_
 
 ### Want to contact me?
