@@ -1,4 +1,4 @@
-## **Want to contact me?**
+## **Contact Info**
 * **Discord** — kneecaps#5974
 * **Email** — kneecaps5974@hotmail.com
 
