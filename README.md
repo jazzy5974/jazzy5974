@@ -1,5 +1,5 @@
 ## **Hello!**
-* I'm a high-school student interested in Computer Science.
+* I'm a high-school sophomore interested in Computer Science.
 * I have basic knowledge in hardware and networking.
 * I have some experience in Java, HTML/CSS, and more to come.
 
