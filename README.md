@@ -6,9 +6,8 @@
 You can look at my personal projects below :)
 
 ### **Notes**
-* Networking has my heart <3
-* Going to be doing two paid summer internships!
-* 
+* Networking >>
+* Going to be doing two paid summer internships
 
 ## **Contact**
 * **Discord** — kneecaps#5974
