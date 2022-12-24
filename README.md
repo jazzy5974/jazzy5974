@@ -1,6 +1,7 @@
 ## **Hello!**
 * I'm a student interested in Computer Science.
 * I have a bit of experience in Java, HTML/CSS, and more to come.
+* I also have basic knowledge in hardware and networking. Networking has my heart <3
 
 You can look at my personal projects below :) 
 
