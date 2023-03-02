@@ -6,8 +6,8 @@
 You can look at my personal projects below :)
 
 ### **Notes**
-* Networking >>
-* Going to be doing two paid summer internships
+* CS >>
+* idek e
 
 ## **Contact**
 * **Discord** — kneecaps#5974
