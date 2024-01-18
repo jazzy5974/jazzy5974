@@ -1,16 +1,4 @@
-## **Hello!**
-* I'm a high-school sophomore interested in Computer Science.
-* I have basic knowledge in hardware and networking.
-* I have some experience in Java, HTML/CSS, and more to come.
+## **Hi**
+* This account is no longer active.
 
-You can look at my personal projects below :)
-
-### **Notes**
-* CS >>
-* idek e
-
-## **Contact**
-* **Discord** — kneecaps#5974
-* **Email** — kneecaps5974@hotmail.com
-
-###### Last updated 12/23/2022
+###### Last updated 1/18/2024
